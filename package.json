@@ -1,0 +1,14 @@
+{
+  "name": "generator-momma",
+  "version": "0.1.0",
+  "description": "A yeoman generator for yo momma.",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "main": "index.js",
+  "author": "Randall Degges",
+  "license": "UNLICNSE",
+  "dependencies": {
+    "yeoman-generator": "^0.17.7"
+  }
+}
